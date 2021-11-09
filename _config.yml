@@ -79,7 +79,7 @@ ga_domain: brilliantlee.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "LiYiyan，fish toucher,机器学习/深度学习学习者 <br> A master student studying at the University of Chinese Academy of Sciences."
-sidebar-avatar: https://github.com/brilliantlee2/brilliantlee2.github.io/blob/main/avatar-hux.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://i.loli.net/2021/11/09/g3S8EBA9XQTsxtO.jpg  # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
