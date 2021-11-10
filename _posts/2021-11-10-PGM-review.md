@@ -39,11 +39,11 @@ tags:
 
 ##### 概率图模型的例子有：
 
-<img src="C:\Users\liyiyan\AppData\Roaming\Typora\typora-user-images\image-20211110105600677.png" alt="image-20211110105600677" style="float;" />
+<img src="https://i.loli.net/2021/11/10/do12LShmFpOPMG3.png" alt="image-20211110105600677" style="float;" />
 
-![image-20211110105941848](C:\Users\liyiyan\AppData\Roaming\Typora\typora-user-images\image-20211110105941848.png)
+![image-20211110105941848](https://i.loli.net/2021/11/10/PwpK3hJdl4EZgtq.png)
 
-![image-20211110110157091](C:\Users\liyiyan\AppData\Roaming\Typora\typora-user-images\image-20211110110157091.png)
+![image-20211110110157091](https://i.loli.net/2021/11/10/pvY9XjaIrO2HEnN.png)
 
 #### 概率图模型的研究内容：
 
@@ -63,7 +63,7 @@ tags:
 - 概率图模型推理包括求边缘概率、求最大后验概率状态、求归一化因子等问题。
 - 概率推理相当于模型求解，在一般图模型中，概率推理是 NP 难问题。
 
-![image-20211110111203841](C:\Users\liyiyan\AppData\Roaming\Typora\typora-user-images\image-20211110111203841.png)
+![image-20211110111203841](https://i.loli.net/2021/11/10/kEbgzFpA9cswKOQ.png)
 
 
 
@@ -73,7 +73,7 @@ tags:
 
 
 
-![image-20211110111326791](C:\Users\liyiyan\AppData\Roaming\Typora\typora-user-images\image-20211110111326791.png)
+![image-20211110111326791](https://i.loli.net/2021/11/10/jle9h2vUpIDAJ8W.png)
 
 ​                             Kim, T.; Nowozin, S.; Kohli, P. & Yoo, C. Variable Grouping for Energy Minimization. *CVPR,* **2011**
 
@@ -81,7 +81,7 @@ tags:
 
 
 
-![image-20211110111413689](C:\Users\liyiyan\AppData\Roaming\Typora\typora-user-images\image-20211110111413689.png)
+![image-20211110111413689](https://i.loli.net/2021/11/10/cj9qPgb1k4C7JG3.png)
 
 Jianwu Dong et al. Phase unwrapping with graph cuts optimization and dual decomposition acceleration for 3D high‐resolution MRI data. MRM 2016
 
@@ -91,7 +91,7 @@ Jianwu Dong et al. Phase unwrapping with graph cuts optimization and dual decomp
 
 
 
-![image-20211110111503795](C:\Users\liyiyan\AppData\Roaming\Typora\typora-user-images\image-20211110111503795.png)
+![image-20211110111503795](https://i.loli.net/2021/11/10/EtGspLUvifuYAWr.png)
 
 Felzenszwalb P F, Huttenlocher D P. Efficient Belief Propagation for Early Vision. International Journal of Computer Vision, 2006, 70(1):41–54.
 
