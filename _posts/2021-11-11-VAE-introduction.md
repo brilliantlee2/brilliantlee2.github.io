@@ -78,6 +78,16 @@ $$
 
 
 
+> Reference
+>
+> [《Variational Graph Auto-Encoders》](https://arxiv.org/abs/1312.6114)
+>
+> [《变分自编码器（一）：原来是这么一回事》](https://kexue.fm/archives/5253)
+>
+> [VGAE：利用变分自编码器完成图重构](https://blog.csdn.net/qq_27075943/article/details/106267746)
+
+
+
 
 
 **_Have a nice day~_**
