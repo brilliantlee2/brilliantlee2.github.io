@@ -96,8 +96,7 @@ $$
 > test
 
 $$
-\begin{aligned} \\ 
+\begin{aligned} \\
 logq_\phi(z|x^{(i)})=logN(z;\mu^{(i)},\sigma^{2(i)},I) \\
 \end{aligned} \\
 $$
-
