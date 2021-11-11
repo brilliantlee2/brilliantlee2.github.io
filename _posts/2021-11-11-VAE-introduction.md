@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "(Variational Auto-Encoders)VAE间接"
+title:      "(Variational Auto-Encoders)VAE简介"
 subtitle:   "VAE? VGAE? GAE?"
 date:       2021-11-11 10:00:00
 author:     "Brillee"
@@ -79,8 +79,3 @@ $$
 
 
 **_Have a nice day~_**
-
-
-
-
-

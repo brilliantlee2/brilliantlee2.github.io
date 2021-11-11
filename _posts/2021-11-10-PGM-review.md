@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Probabilistic Graphical Models(PGM)简介"
-subtitle:   "One small check"
+subtitle:   "PGM初时"
 date:       2021-11-10 10:00:00
 author:     "Brillee"
 catalog: false
@@ -102,8 +102,3 @@ Felzenszwalb P F, Huttenlocher D P. Efficient Belief Propagation for Early Visio
 
 
 **_Have a nice day~_**
-
-
-
-
-
