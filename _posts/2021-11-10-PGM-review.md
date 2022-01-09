@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Probabilistic Graphical Models(PGM)简介"
-subtitle:   "PGM初时"
+subtitle:   "PGM初识"
 date:       2021-11-10 10:00:00
 author:     "Brillee"
 catalog: false
